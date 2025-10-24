@@ -56,27 +56,6 @@ Key features include:
 ### Footer
 - Links back to **personal profile** and **GitHub repository**  
 
----
-
-## 🛠 Challenges & Solutions
-
-**Technical Challenges:**
-- Making the **project card layout responsive**: solved with **flexbox** and **media queries**  
-- Handling **show/hide interactions** for the color picker game using **DOM methods**  
-- Integrating **Font Awesome icons** correctly through CDN  
-
-**Non-Technical Challenges:**
-- Balancing **clean design with interactive elements**: studied other portfolios for inspiration  
-- **Time management** while building and refining layout  
-
----
-
-## 🚀 Improvements Planned
-- Rebuild the portfolio in **ReactJS** with reusable components  
-- Add **animations** for project cards and links  
-- Include a **dark/light mode toggle**  
-- Add a **contact form** with validation and backend integration  
-- Deploy professionally with **custom domain**  
 
 ---
 
