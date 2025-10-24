@@ -79,5 +79,5 @@ The interactive color picker game is a small but personal touch that reflects my
 ## 🎯 How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/vishnu14192/portfolio-website.git
 
